@@ -1,0 +1,27 @@
+### Texto sobre o Jogo Interativo de Aventura
+
+Este é um jogo interativo de aventura envolvente que desafia os jogadores a tomar decisões críticas em um mundo sombrio e misterioso. O objetivo do jogo é sobreviver e escapar de situações perigosas, enfrentando criaturas aterrorizantes e desafios enigmáticos. A cada passo, o jogador é imerso em uma narrativa cativante, cheia de surpresas e reviravoltas.
+
+#### Introdução e Premissa
+Ao iniciar o jogo, os jogadores são saudados por uma mensagem intrigante: "Você está prestes a começar um jogo pelo qual não deveria começar!" Com uma atmosfera sinistra estabelecida desde o início, os jogadores são instigados a aceitar os termos do jogo, apresentados em português e russo. A aceitação dos termos é a primeira escolha crucial, definindo o tom da aventura que está por vir.
+
+#### Escolhas e Consequências
+O jogo oferece aos jogadores três caminhos distintos para escolher, cada um levando a diferentes cenários e desafios. A estrutura do jogo é altamente dependente das escolhas do jogador, com cada decisão levando a novas ramificações na história:
+
+1. **Caminho 1: A Caverna Sombria**
+    - O jogador pode optar por entrar na caverna escura ou seguir pela estrada ao lado. Ambas as escolhas levam a finais trágicos, com a caverna abrigando um feroz predador e a estrada terminando em um abismo, onde o jogador acaba caindo em desespero.
+
+2. **Caminho 2: O Portal Misterioso**
+    - Este caminho apresenta um portal misterioso que o jogador pode escolher entrar ou ignorar. Entrar no portal leva a um encontro com uma bruxa que oferece um pacto. A aceitação ou recusa do pacto abre novas possibilidades, incluindo um encontro com Mortiferoth, o Devorador de Almas, e a chance de negociar um acordo para escapar. Ignorar o portal resulta em uma maldição eterna.
+
+3. **Caminho 3: Dracus, o Desperto das Trevas**
+    - O jogador encontra Dracus e deve decidir entre procurar artefatos mágicos ao redor ou se aproximar de Dracus. A busca por artefatos resulta em encontrar um item que mata Dracus e permite a volta para casa. Aproximar-se de Dracus, no entanto, leva a uma condenação eterna nas trevas.
+
+#### Mecânicas do Jogo
+O jogo utiliza comandos simples para navegar pelas escolhas, com instruções claras sobre como proceder em cada situação. O uso de uma função de limpar o terminal após cada escolha ajuda a manter a imersão do jogador e a clareza da narrativa. As pausas temporizadas entre os eventos aumentam a tensão e a expectativa.
+
+#### Reinício e Rejogabilidade
+Após um desfecho, seja ele bem-sucedido ou trágico, os jogadores têm a opção de reiniciar o jogo e tentar diferentes caminhos e escolhas. Isso não apenas aumenta a rejogabilidade, mas também permite aos jogadores explorar todas as possibilidades e finais do jogo.
+
+#### Conclusão
+Este jogo de aventura interativa oferece uma experiência emocionante e desafiadora, onde cada escolha importa. Com uma narrativa rica e envolvente, os jogadores são transportados para um mundo cheio de perigos e mistérios, onde apenas os mais astutos podem sobreviver. Teste sua coragem e inteligência neste jogo único e veja se você tem o que é necessário para escapar vivo!
