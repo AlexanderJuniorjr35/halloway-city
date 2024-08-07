@@ -13,7 +13,7 @@ Welcome to the HALLOWAY CITY! This is an interactive text-based game where your 
    If you haven't already, clone this repository to your local machine:
 
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone <https://github.com/AlexanderJuniorjr35/halloway-city.git>
    ```
 
 2. **Install Python**
