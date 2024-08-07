@@ -1,6 +1,6 @@
-# Adventure Game
+# HALLOWAY CITY
 
-Welcome to the Adventure Game! This is an interactive text-based game where your choices determine the fate of the character. The goal is to navigate a world of mystery and danger, making strategic choices to survive and escape.
+Welcome to the HALLOWAY CITY! This is an interactive text-based game where your choices determine the fate of the character. The goal is to navigate a world of mystery and danger, making strategic choices to survive and escape.
 
 ## Requirements
 
