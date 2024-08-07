@@ -1,27 +1,27 @@
-### Texto sobre o Jogo Interativo de Aventura
+### Interactive Adventure Game Overview
 
-Este é um jogo interativo de aventura envolvente que desafia os jogadores a tomar decisões críticas em um mundo sombrio e misterioso. O objetivo do jogo é sobreviver e escapar de situações perigosas, enfrentando criaturas aterrorizantes e desafios enigmáticos. A cada passo, o jogador é imerso em uma narrativa cativante, cheia de surpresas e reviravoltas.
+This is an engaging interactive adventure game that challenges players to make critical decisions in a dark and mysterious world. The goal is to survive and escape dangerous situations, facing terrifying creatures and enigmatic challenges. With each step, players are immersed in a captivating narrative full of surprises and twists.
 
-#### Introdução e Premissa
-Ao iniciar o jogo, os jogadores são saudados por uma mensagem intrigante: "Você está prestes a começar um jogo pelo qual não deveria começar!" Com uma atmosfera sinistra estabelecida desde o início, os jogadores são instigados a aceitar os termos do jogo, apresentados em português e russo. A aceitação dos termos é a primeira escolha crucial, definindo o tom da aventura que está por vir.
+#### Introduction and Premise
+At the start of the game, players are greeted by an intriguing message: "You are about to start a game you should not start!" With a sinister atmosphere established from the beginning, players are prompted to accept the game’s terms, presented in both Portuguese and Russian. Accepting the terms is the first crucial choice, setting the tone for the adventure ahead.
 
-#### Escolhas e Consequências
-O jogo oferece aos jogadores três caminhos distintos para escolher, cada um levando a diferentes cenários e desafios. A estrutura do jogo é altamente dependente das escolhas do jogador, com cada decisão levando a novas ramificações na história:
+#### Choices and Consequences
+The game offers players three distinct paths to choose from, each leading to different scenarios and challenges. The game’s structure heavily relies on player choices, with each decision leading to new story branches:
 
-1. **Caminho 1: A Caverna Sombria**
-    - O jogador pode optar por entrar na caverna escura ou seguir pela estrada ao lado. Ambas as escolhas levam a finais trágicos, com a caverna abrigando um feroz predador e a estrada terminando em um abismo, onde o jogador acaba caindo em desespero.
+1. **Path 1: The Dark Cave**
+    - The player can choose to enter the dark cave or follow the road beside it. Both choices lead to tragic endings, with the cave harboring a fierce predator and the road ending in an abyss, where the player falls into despair.
 
-2. **Caminho 2: O Portal Misterioso**
-    - Este caminho apresenta um portal misterioso que o jogador pode escolher entrar ou ignorar. Entrar no portal leva a um encontro com uma bruxa que oferece um pacto. A aceitação ou recusa do pacto abre novas possibilidades, incluindo um encontro com Mortiferoth, o Devorador de Almas, e a chance de negociar um acordo para escapar. Ignorar o portal resulta em uma maldição eterna.
+2. **Path 2: The Mysterious Portal**
+    - This path presents a mysterious portal that the player can choose to enter or ignore. Entering the portal leads to an encounter with a witch who offers a pact. Accepting or rejecting the pact opens up new possibilities, including a meeting with Mortiferoth, the Soul Devourer, and the chance to negotiate an escape. Ignoring the portal results in an eternal curse.
 
-3. **Caminho 3: Dracus, o Desperto das Trevas**
-    - O jogador encontra Dracus e deve decidir entre procurar artefatos mágicos ao redor ou se aproximar de Dracus. A busca por artefatos resulta em encontrar um item que mata Dracus e permite a volta para casa. Aproximar-se de Dracus, no entanto, leva a uma condenação eterna nas trevas.
+3. **Path 3: Dracus, the Awakening of Darkness**
+    - The player encounters Dracus and must decide between searching for magical artifacts around or approaching Dracus. Searching for artifacts results in finding an item that kills Dracus and allows a return home. Approaching Dracus, however, leads to eternal condemnation in darkness.
 
-#### Mecânicas do Jogo
-O jogo utiliza comandos simples para navegar pelas escolhas, com instruções claras sobre como proceder em cada situação. O uso de uma função de limpar o terminal após cada escolha ajuda a manter a imersão do jogador e a clareza da narrativa. As pausas temporizadas entre os eventos aumentam a tensão e a expectativa.
+#### Game Mechanics
+The game uses simple commands to navigate through choices, with clear instructions on how to proceed in each situation. The use of a terminal-clearing function after each choice helps maintain player immersion and narrative clarity. Timed pauses between events increase tension and anticipation.
 
-#### Reinício e Rejogabilidade
-Após um desfecho, seja ele bem-sucedido ou trágico, os jogadores têm a opção de reiniciar o jogo e tentar diferentes caminhos e escolhas. Isso não apenas aumenta a rejogabilidade, mas também permite aos jogadores explorar todas as possibilidades e finais do jogo.
+#### Restart and Replayability
+After a conclusion, whether successful or tragic, players have the option to restart the game and try different paths and choices. This not only enhances replayability but also allows players to explore all possible outcomes and endings.
 
-#### Conclusão
-Este jogo de aventura interativa oferece uma experiência emocionante e desafiadora, onde cada escolha importa. Com uma narrativa rica e envolvente, os jogadores são transportados para um mundo cheio de perigos e mistérios, onde apenas os mais astutos podem sobreviver. Teste sua coragem e inteligência neste jogo único e veja se você tem o que é necessário para escapar vivo!
+#### Conclusion
+This interactive adventure game offers an exciting and challenging experience where every choice matters. With a rich and immersive narrative, players are transported to a world full of dangers and mysteries, where only the most astute can survive. Test your courage and intelligence in this unique game and see if you have what it takes to escape alive!
